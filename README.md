@@ -1,6 +1,6 @@
 # CleanFreee
 
-freee会計の邪魔な表示を消すChrome拡張です。
+freee会計の右下に表示される邪魔なオーバーフロー表示を消すChrome拡張です。
 
 ## 使い方
 
