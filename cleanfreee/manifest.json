@@ -1,0 +1,14 @@
+{
+    "name": "CleanFreee", 
+    "version": "0.1", 
+    "manifest_version": 3, 
+    "description": "Freee会計の右下の邪魔なオーバーレイを消す", 
+    "content_scripts": [{
+        "matches": [
+            "https://secure.freee.co.jp/*"
+        ], 
+        "css": [
+            "content.css"
+        ]
+    }]
+}
